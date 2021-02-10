@@ -12,6 +12,5 @@ Homeworks and Final Project
 
 
 
-### Certification
-![](img/certificate_ex.png)
-
+## Certification
+![GlobalAI](https://user-images.githubusercontent.com/32266891/107448157-1f352900-6b52-11eb-9872-eca1dbfcd3d7.png)
